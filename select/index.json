@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "プレゼント交換",
+  "base_artist": "hockrockb",
+  "createdAt": "2026-03-15T11:29:36.252746Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プレゼント交換",
+      "artist": "hockrockb",
+      "has_synced": false,
+      "path": "select/pl_01_プレゼント交換_hockrockb.txt"
+    }
+  ]
+}
